@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://widahuluwohu.netlify.app/sitemap.xml
